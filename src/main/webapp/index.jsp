@@ -9,7 +9,7 @@
     </head>
     <body>
         <h1>Properties</h1>
-        <form>
+        <form action="/">
             Server name <input type="text" name="Text1" value="" size="20" /><br />
            Application path <input type="text" name="Text2" value="" size="20" /><br />
            Server port <input type="text" name="Text3" value="" size="20" /><br />
